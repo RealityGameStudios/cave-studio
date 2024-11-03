@@ -127,7 +127,7 @@ header {
 
 .light .fancyBtn {
   color: rgb(0, 0, 0);
-  background: rgb(235, 235, 235);
+  background: rgb(235, 235, 235) ;
 }
 
 .light .fancyBtn:hover {
@@ -202,8 +202,13 @@ header {
 }
 
 .dark .activeFancyItem {
-  background: rgb(230, 230, 230) !important;
   color: black;
+  background: rgb(230, 230, 230) !important;
+}
+
+.dark .activeFancyItem:hover {
+  color: black;
+  background: rgb(230, 230, 230) !important;
 }
 
 .light .activeFancyItem {

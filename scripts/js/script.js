@@ -241,7 +241,7 @@ export class Program {
 
 The Game Cave LLC. Presents -> Cave Studio For Front-End Web Development;
 
-The Free and Open Source Online Text Editor
+The Free and Open Source Online Text Editor;
 
 Developed By Solo Web Developer @Master;
 
@@ -250,7 +250,7 @@ Socials ->
 	"instagram": "@itzyahya777",
      "youtube": "@7kClips"
                                                                                                                  
- --->                                    `);
+ ---> `);
           break;
         case "css":
           textarea.addEventListener("input", () => {
