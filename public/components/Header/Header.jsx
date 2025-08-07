@@ -144,12 +144,7 @@ export default function Header() {
       "options": [{
         "title": "RealChess.com",
         "do": () => open("https://realchess.netlify.app/"),
-      },
-      {
-        "title": "RealCheckers.com",
-        "do": () => open("https://realcheckers.netlify.app/"),
-      },
-      {
+      }, {
         "title": "The Music Cave",
         "do": () => open("https://themusicave.netlify.app/"),
       }, {
